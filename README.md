@@ -12,4 +12,4 @@ Tools I use:
 - SQL
 - PowerBI
 ***
-Contact me at: [Linkedin](www.linkedin.com/in/miucheung)
+Contact me at: [Linkedin](https://www.linkedin.com/in/miucheung)
