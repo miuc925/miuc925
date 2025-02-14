@@ -1,16 +1,15 @@
-## Hi there 👋
+### About me 👋
 
-<!--
-**miuc925/miuc925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there, I am Miu. I have a background of Science in my academic studies. 
+Working in consumer product quality assurance fuels my passion for leveraging data to drive continuous improvement and uncover hidden insights.
 
-Here are some ideas to get you started:
+You will find my portfolio [here](https://github.com/miuc925/dataportfolio).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</html>
+Tools I use:
+
+- Excel
+- SQL
+- PowerBI
+***
+Contact: [LinkedIn](www.linkedin.com/in/miucheung)
